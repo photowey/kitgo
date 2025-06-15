@@ -1,2 +1,3 @@
-# kitgo
-A simple toolbox project for the Golang.
+# `kitgo`
+
+A simple utility library for the `Golang`.
